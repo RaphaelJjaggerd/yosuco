@@ -9,7 +9,7 @@ export default {
       type: 'postedBy',
     },
     {
-      name: 'userId',
+      name: 'userId',    //User id fo the user who saved the pin
       title: 'UserId',
       type: 'string',
     },
